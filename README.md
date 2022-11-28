@@ -1,4 +1,7 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=matmoul&show_icons=true&locale=en&layout=compact&theme=onedark"/>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=matmoul&amp;count_private=true&amp;show_icons=true&amp;line_height=20&theme=onedark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matmoul&show_icons=true&locale=en&layout=compact&theme=onedark"/>
+</div>
 
 It's been a while since I was able to take care of my projects but I come back to it (As my free time is limited, I do my best).
 
