@@ -1,4 +1,4 @@
-<div>
+<div style="white-space: nowrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=matmoul&amp;count_private=true&amp;show_icons=true&amp;line_height=20&theme=onedark"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matmoul&show_icons=true&locale=en&layout=compact&theme=onedark"/>
 </div>
