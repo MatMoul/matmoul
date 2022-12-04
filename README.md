@@ -4,10 +4,10 @@
 </div>
 <br>
 
-It's been a while since I was able to take care of my projects but I come back to it (As my free time is limited, I do my best).
+whiptail is now fixed, archfi and archfi are still dialog based but I will add the choice between the two for next release :
+ - https://pagure.io/newt/issue/22
+ - https://pagure.io/newt/issue/23 
 
-I had to support archfi/archdi after the last popt update which decommissioned whiptail.
-I migrated to dialog and I reported the problems on the newt project.
-The work is in progress.
+I released a new version for g810-led which fixes CVE-2022-46338 (https://www.cve.org/CVERecord?id=CVE-2022-46338)
 
-I will try to take up requests for g810-led as soon as possible but due to lack of time, we will have to wait a bit.
+Now, I need to work on my job for the end of the year, comming back soon.
