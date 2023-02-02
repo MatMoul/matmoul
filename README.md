@@ -4,4 +4,5 @@ whiptail is now fixed, archfi and archfi are still dialog based but I will add t
 
 I released a new version for g810-led which fixes CVE-2022-46338 (https://www.cve.org/CVERecord?id=CVE-2022-46338)
 
-Now, I need to work on my job for the end of the year, comming back soon.
+I lack time to maintain g810-led, I call back my request :
+https://github.com/MatMoul/g810-led/issues/210
