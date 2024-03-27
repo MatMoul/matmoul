@@ -11,4 +11,4 @@ I think they are reaching the end but I will complete this topic later.
 
 
 If you love your HP48 calculator from your studies and want it on Linux, here's the latest solution :  
-[https://github.com/gwenhael-le-moine/x48](https://github.com/gwenhael-le-moine/x48ng)
+https://github.com/gwenhael-le-moine/x48ng
