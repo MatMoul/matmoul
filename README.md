@@ -6,7 +6,7 @@ Because I am migrating my codes to my local Gitea, my github will definitely be 
 As I no longer have time for g810-led, I only maintain CVS.  
 The OpenRGB project seems a good alternative.
 
-What about archfi/archdi?
+What about archfi/archdi?  
 I think they are reaching the end but I will complete this topic later.
 
 
