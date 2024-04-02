@@ -1,7 +1,8 @@
 plasma-containmentactions-customdesktopmenu is ready for plasma 6 :  
 https://github.com/MatMoul/plasma-containmentactions-customdesktopmenu
 
-Because I am migrating my codes to my local Gitea, my github will definitely be less active.
+Because I am migrating my codes to my local Gitea, my github will definitely be less active.  
+https://git.netm.ch/explore/repos
 
 As I no longer have time for g810-led, I only maintain CVS.  
 The OpenRGB project seems a good alternative.
